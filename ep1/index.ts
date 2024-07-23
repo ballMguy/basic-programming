@@ -7,7 +7,8 @@ const robloxUsername : string = 'ballMguy'
 
 //วิธีการตั้งตัวแปร
 var a : number = 69
-let b : string = 'skibidi'
+let b : number = 20
+let d : string = 'skibidi'
 const c : boolean = true
 
 //เครื่องหมายเปรียบเทียบ
