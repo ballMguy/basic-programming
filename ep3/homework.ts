@@ -1,4 +1,4 @@
-function BMIs(height : number, weight: number) {
+function BMIcal(height : number, weight: number) {
     let BMI: number = weight / (height * height)
     if(BMI > 30) {
         console.log('อ้วนมาก / โรคอ้วนระดับ 3')
@@ -13,4 +13,4 @@ function BMIs(height : number, weight: number) {
     }
         
 }
-BMIs(170,45)
+BMIcal(170,45)
