@@ -13,4 +13,4 @@ function BMIcal(height : number, weight: number) {
     }
         
 }
-BMIcal(170,45)
+BMIcal(1.70,60)
