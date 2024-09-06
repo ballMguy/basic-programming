@@ -24,8 +24,13 @@ const fruits: string[] =["Banana", "Orange", "Apple", "Mango"]
 console.log(fruits.sort())
 console.log(fruits.reverse())
 
-const me = {
+const aboutMe = {
     firstName: "Supaluk",
     lastName: "Yodjan",
-    age: 20
+    age: 20,
+    height: 170,
+    idCard:"123456",
+    phone: "0878551451"
 }
+
+console.log(aboutMe.firstName, aboutMe.lastName)
