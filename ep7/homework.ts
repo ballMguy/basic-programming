@@ -481,3 +481,4 @@ const newsThai = news.results.filter(function(element, index){
 })
 
 console.log(newsThai)
+
